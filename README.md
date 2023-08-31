@@ -12,7 +12,7 @@
 <a href="mailto:andregs.dev@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="wallflower408" height="30" width="30" /></a>
 </p>
 
-<div style="display: inline_block"><br>
+<h3 style="display: inline_block">Tecnologies:</h3>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,4 +30,6 @@
   <a href="https://www.linkedin.com/in/vinicius-felipi-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
