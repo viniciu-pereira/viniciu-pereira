@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+
 ## Olá eu sou o Vinicius Felipi, estudante de tecnologia!
 
 <div style="display: inline_block"><br>
